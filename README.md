@@ -1,0 +1,2 @@
+# FunnyCode
+collect interesting code.
